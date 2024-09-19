@@ -7,13 +7,13 @@
 ## Important Libraries: 
 - *dplyr*
 - *ggplot2*
-- *cluster *
+- *cluster*
 - *dbscan*
 - *leaflet*
 - *sp*
 
 ## Technologies: 
-- *Data Analysis *
+- *Data Analysis*
 - *Unsupervised Learning (Clustering)*
 
 ### Abstract: 
