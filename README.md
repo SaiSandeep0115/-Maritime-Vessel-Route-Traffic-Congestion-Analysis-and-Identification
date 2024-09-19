@@ -1,20 +1,20 @@
 # Maritime-Vessel-Route-Traffic-Congestion-Analysis-and-Identification
 
 ## Softwares: 
-- *R*
-- *Tableau*
+- **R**
+- **Tableau**
 
 ## Important Libraries: 
-- *dplyr*
-- *ggplot2*
-- *cluster*
-- *dbscan*
-- *leaflet*
-- *sp*
+- **dplyr**
+- **ggplot2**
+- **cluster**
+- **dbscan**
+- **leaflet**
+- **sp**
 
 ## Technologies: 
-- *Data Analysis*
-- *Unsupervised Learning (Clustering)*
+- **Data Analysis**
+- **Unsupervised Learning (Clustering)**
 
 ### Abstract: 
 This project focuses on analyzing vessel traffic congestion in maritime routes by utilizing AIS data sourced from MarineTraffic. By applying clustering techniques, we aim to identify congested areas and provide insights for improving traffic flow and operational efficiency.
